@@ -125,6 +125,15 @@ body {
     
 }
 
+@media (max-width: 600px){
+    .select {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
 .poke-container {
     display: grid;
     place-items: center;
