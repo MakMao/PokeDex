@@ -15,7 +15,7 @@ Building a PokeDex brings up awesome childhood memories. Therefore, it was a lot
 
 ### Links
 
-https://bbq-page.netlify.app/
+https://pokedex-makmao.netlify.app/
 
 ### Screenshots
 
