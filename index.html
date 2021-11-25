@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/f504aa1989.js" crossorigin="anonymous"></script>
+    <title>newwww</title>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <img class="header-img"src="pokemon.png" alt="pokemon logo">
+        </div>
+    </header> 
+
+    <div class="search-container">
+        <form class="search-form">
+                <input class="search-input" type="text" name="poke-search" id="poke_search" placeholder="Type a pokemon name here..." >
+        </form>
+
+        <div class="select">
+            <label class="poke-label" for="poke-types">Select a type:</label>
+            <select name="poke-types" id="poke-types" class="poke-types" >
+                <option class="holder">Please select a type...</option>
+                <option value="">All</option>
+            </select>
+        </div>
+    </div>
+    
+    <div class="container">
+        <div id="poke_container" class="poke-container"></div>
+    </div>
+
+</body>
+</html>
