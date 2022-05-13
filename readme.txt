@@ -17,4 +17,4 @@ It was especially great to notice that I am making progress. I am getting more a
 
 The PokeDex is work in progress: more features/functionalities will be added later. I am satisfied with the way it looks for now. Can't wait to add more cool features to this project! 
 
-This is a project I have been working on a while ago: I simply forgot to put it on GitHub.
+This is a project I have been working on quite some time ago: I simply forgot to put it on GitHub.
